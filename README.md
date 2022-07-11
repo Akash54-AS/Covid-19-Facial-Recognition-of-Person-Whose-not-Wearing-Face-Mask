@@ -1,5 +1,5 @@
 
-# Covid 19 :: Facial Recognition of Person Whose not Wearing Face Mask
+# Covid 19 :: Facial Recognition of Person Who's not Wearing Face Mask
 
 Aim of the project is to develop a system which can automatically detect person without a face mask and identify the persons details.
 This type of system can be very useful for government as they can use this easily which will help them to control covid infections
